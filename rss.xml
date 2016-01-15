@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Weed]]></title>
         <description><![CDATA[Weed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/weed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 06:27:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 06:27:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/weed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Webniac]]></title>
             <description><![CDATA[<article><h1>Webniac</h1><p>Building something from the ground up takes vision and determination.  Documenting it can help in making it real.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/544cf79e3bdf2934cb4e8818e22fe205d60680ce.jpg"></article>]]></description>
-            <link>undefinedwebniac/index.html</link>
+            <link>https://thegrid.ai/weed/webniac/index.html</link>
             <guid isPermaLink="false">0af9cdc5-e5c1-4ddc-9413-cde010308d94</guid>
-            <pubDate>Fri, 15 Jan 2016 06:27:06 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 06:27:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
